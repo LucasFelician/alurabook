@@ -12,4 +12,6 @@ Versão mobile:
 
 ![image](https://github.com/LucasFelician/alurabook/assets/160130090/8c15856b-9233-484d-b9c1-92481b6d3a7c)
 
-<a href="https://lucasfelician.github.io/alurabook/">Acesse o site!</a>
+<h2>Acesse o site!</h2>
+
+Para acessar o site e verificar como ele ficou, clique <a href="https://lucasfelician.github.io/alurabook/">aqui</a>
