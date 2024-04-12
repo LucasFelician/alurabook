@@ -16,3 +16,5 @@ Versão mobile:
 <h2>Acesse o site!</h2>
 
 Para acessar o site e verificar como ele ficou, clique <a href="https://lucasfelician.github.io/alurabook/">aqui</a>
+
+![Static Badge](https://img.shields.io/badge/status-finalizado-verde)
