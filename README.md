@@ -1,3 +1,4 @@
+![Logo](https://github.com/LucasFelician/alurabook/assets/160130090/3f72bbe3-86e1-46c9-a699-682b9d38a73d)
 <h1>Alurabooks</h1>
 
 Projeto Alurabooks feito com o curso de Mobile-Frist da Alura!
